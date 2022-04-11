@@ -1,5 +1,4 @@
-# amocasa
-Amocasa project
+# Amocasa project
 
 Main color  
 Grey color  #343a40
